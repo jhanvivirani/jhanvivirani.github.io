@@ -3,11 +3,6 @@
 ## About Me
 I'm an undergraduate student at the Honors College of Rutgers University- New Brunswick. I study history, computer science, and political science
 
-git add profile.JPG
-git commit -m 'add jpg file'
-git remote add origin https://github.com/profile.git
-git push -u origin master
-
 
 ## Things I Do
   - I work at the Infoseeking Lab at the Rutgers School of Communication and Information. I'm currently working on a project in collaboration called Armed Conflicts Analytics, which is a data visualization platform for the United Nations.
