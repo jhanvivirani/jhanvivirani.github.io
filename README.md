@@ -1,24 +1,27 @@
-# Jhanvi Virani
+# [Start Bootstrap](http://startbootstrap.com/) - [Creative](http://startbootstrap.com/template-overviews/creative/)
 
-[About Me](#about-me)
+[Creative](http://startbootstrap.com/template-overviews/creative/) is a one page creative theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
-[Things I Do](#things-i-do)
+## Getting Started
 
+To begin using this template, choose one of the following options to get started:
+* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/creative/)
+* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-creative.git`
+* Fork the repo
 
-![virani](https://user-images.githubusercontent.com/29782996/28128212-fec50c06-66fc-11e7-90a8-6073a5709284.JPG)
+## Bugs and Issues
 
+Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-creative/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/creative/).
 
-## About Me
-I'm an undergraduate student at the Honors College of Rutgers University- New Brunswick, where I study history, computer science, and political science.
+## Creator
 
+Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
 
-## Things I Do
-  - I work at the Infoseeking Lab at the Rutgers School of Communication and Information. I'm currently working on a project in collaboration called Armed Conflicts Analytics, which is a data visualization platform for the United Nations.
-  - I write a column for the Daily Targum newspaper. My column, "From Breaks to Bar" analyzes hip-hop news and explores the nuances of hip-hop history and culture.
-  - I am a research assistant at the Rutgers School of Management, where I help conduct research on disabilities in the workforce.
-  - I am the Director of Internal Structures of the Rutgers Entrepreneurial Society, an on-campus student organization that connects students to opportunities in the start-up business field.
-  - I tutor high school students for SAT and AP test preperation, and in subjects like math, chemistry, and history.
-  - I like to knit, read, listen to music, write, and (when I have the time) binge-watch tv shows with my brother.
+* https://twitter.com/davidmillerskt
+* https://github.com/davidtmiller
 
-Like what you see?
-[Connect with me on LinkedIn!](https://www.linkedin.com/in/jhanvi-virani-3a6899132/)
+Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+
+## Copyright and License
+
+Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-creative/blob/gh-pages/LICENSE) license.
