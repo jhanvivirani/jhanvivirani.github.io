@@ -1,7 +1,13 @@
 # Jhanvi Virani
 
+[About Me](#about-me)
+
+[Things I Do](#things-i-do)
+
+
 ## About Me
-I'm an undergraduate student at the Honors College of Rutgers University- New Brunswick. I study history, computer science, and political science
+I'm an undergraduate student at the Honors College of Rutgers University- New Brunswick, where I study history, computer science, and political science.
+
 
 ## Things I Do
   - I work at the Infoseeking Lab at the Rutgers School of Communication and Information. I'm currently working on a project in collaboration called Armed Conflicts Analytics, which is a data visualization platform for the United Nations.
@@ -10,3 +16,6 @@ I'm an undergraduate student at the Honors College of Rutgers University- New Br
   - I am the Director of Internal Structures of the Rutgers Entrepreneurial Society, an on-campus student organization that connects students to opportunities in the start-up business field.
   - I tutor high school students for SAT and AP test preperation, and in subjects like math, chemistry, and history.
   - I like to knit, read, listen to music, write, and (when I have the time) binge-watch tv shows with my brother.
+
+Like what you see?
+[Connect with me on LinkedIn!](https://www.linkedin.com/in/jhanvi-virani-3a6899132/)
