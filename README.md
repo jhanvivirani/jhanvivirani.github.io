@@ -1,6 +1,7 @@
 # Jhanvi Virani
 
 About Me
+
 I'm an undergraduate student at the Honors College of Rutgers University- New Brunswick. I study history, computer science, and political science, 
 
 Things I Do
