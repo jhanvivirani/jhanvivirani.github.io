@@ -3,9 +3,6 @@
 ## About Me
 I'm an undergraduate student at the Honors College of Rutgers University- New Brunswick. I study history, computer science, and political science
 
-<link https://jhanvivirani.github.io/profile.JPG>
-
-
 ## Things I Do
   - I work at the Infoseeking Lab at the Rutgers School of Communication and Information. I'm currently working on a project in collaboration called Armed Conflicts Analytics, which is a data visualization platform for the United Nations.
   - I write a column for the Daily Targum newspaper. My column, "From Breaks to Bar" analyzes hip-hop news and explores the nuances of hip-hop history and culture.
