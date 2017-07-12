@@ -4,7 +4,7 @@
 
 [Things I Do](#things-i-do)
 
-![virani](https://user-images.githubusercontent.com/29782996/28127278-f74e9ddc-66f9-11e7-89db-3eb5dd448379.jpg)
+![virani](https://user-images.githubusercontent.com/29782996/28127278-f74e9ddc-66f9-11e7-89db-3eb5dd448379.JPG)
 
 
 ## About Me
