@@ -3,7 +3,10 @@
 ## About Me
 I'm an undergraduate student at the Honors College of Rutgers University- New Brunswick. I study history, computer science, and political science
 
-add profile.JPG
+git add profile.JPG
+git commit -m 'add jpg file'
+git remote add origin https://github.com/profile.git
+git push -u origin master
 
 
 ## Things I Do
